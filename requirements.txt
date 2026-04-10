@@ -1,0 +1,3 @@
+# requirements.txt
+
+# (empty for now, but required for pipeline structure)
